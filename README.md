@@ -1,14 +1,14 @@
 #Fala aí!👋
 
-#🔭 Atualmente estudando Back-end
+🔭 Atualmente estudando Back-end
 
-#🌱 Aprendendo Git e GitHub
+🌱 Aprendendo Git e GitHub
 
-#💬 Me pergunte sobre C, Python, Java e Estruturas de Dados
+💬 Me pergunte sobre C, Python, Java e Estruturas de Dados
 
-#📫 Contato: [nintendo_64m@outlook.com](mailto:nintendo_64m@outlook.com)
+📫 Contato: [nintendo_64m@outlook.com](mailto:nintendo_64m@outlook.com)
 
-#![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=dracula)
+![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=dracula)
 
 
 <!--
