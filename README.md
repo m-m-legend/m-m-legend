@@ -1,14 +1,44 @@
-#Fala aí!👋
+# 👋 Fala aí! Eu sou o Marcos Mendonça
 
-🔭 Atualmente estudando Back-end
+🎓 Estudante de Ciência da Computação - UERJ  
+🚀 Atualmente focado em Back-end  
+🔧 Aprendendo Git, GitHub e boas práticas de versionamento  
 
-🌱 Aprendendo Git e GitHub
+---
 
-💬 Me pergunte sobre C, Python, Java e Estruturas de Dados
+## 🧠 Conhecimentos
 
-📫 Contato: [nintendo_64m@outlook.com](mailto:nintendo_64m@outlook.com)
+- 💻 Linguagens: **C**, **Python**, **Java**
+- 🧩 Interesse especial em **Estruturas de Dados**
+- 📚 Estudando algoritmos e lógica de programação
 
-![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=dracula)
+---
+
+## 📫 Contato
+
+✉️ Email: [nintendo_64m@outlook.com](mailto:nintendo_64m@outlook.com)  
+🎮 Curioso e gamer nas horas vagas
+
+---
+
+## 📊 GitHub Stats
+
+![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-1egend&show_icons=true&theme=tokyonight&hide_title=false)
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+> “Learning and improving day by day.” 🌱
+
 
 
 <!--
