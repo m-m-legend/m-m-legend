@@ -1,4 +1,4 @@
-# 👋 Fala aí! Eu sou o Marcos Mendonça
+# 👋 Fala aí! Eu sou o Marcos! 
 
 🎓 Estudante de Ciência da Computação - UERJ  
 🚀 Atualmente focado em Back-end  
@@ -9,7 +9,7 @@
 ## 🧠 Conhecimentos
 
 - 💻 Linguagens: **C**, **Python**, **Java**
-- 🧩 Interesse especial em **Estruturas de Dados**
+- 🧩 Interesse especial em **Estruturas de Dados** e **Programação Dinâmica**
 - 📚 Estudando algoritmos e lógica de programação
 
 ---
