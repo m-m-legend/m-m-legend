@@ -2,14 +2,14 @@
 
 🎓 Estudante de Ciência da Computação - UERJ  
 🚀 Atualmente focado em Back-end  
-🔧 Aprendendo Git, GitHub e boas práticas de versionamento  
+🔧 Entusiasta de Git, GitHub e boas práticas de versionamento  
 
 ---
 
 ## 🧠 Conhecimentos
 
-- 💻 Linguagens: **C**, **Python**, **Java**
-- 🧩 Interesse especial em **Estruturas de Dados** e **Programação Dinâmica**
+- 💻 Linguagens: **C**, **Python**, **Java**, **C#**
+- 🧩 Interesse especial em **Estruturas de Dados**, **Programação Dinâmica**, **GUIs** e diversos frameworks
 - 📚 Estudando algoritmos e lógica de programação
 
 ---
