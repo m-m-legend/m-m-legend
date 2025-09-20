@@ -8,9 +8,9 @@
 
 ## 🧠 Conhecimentos
 
-- 💻 Linguagens: **C**, **Python**, **Java**, **C#**
-- 🧩 Interesse especial em **Estruturas de Dados**, **Programação Dinâmica**, **GUIs** e diversos frameworks
-- 📚 Estudando algoritmos e lógica de programação
+- 💻 Linguagens: **C**, **Python**, **Java**, **C#**, **JavaScript**
+- 🧩 Interesse especial em **Estruturas de Dados**, **Programação Dinâmica**, **GUIs**, **C** e **POO**
+- 📚 Estudando algoritmos, lógica de programação e SDL
 
 ---
 
