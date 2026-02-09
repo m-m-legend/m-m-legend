@@ -60,9 +60,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
+![Profile Views](https://komarev.com/ghpvc/?username=m-m-legend)
+![Followers](https://img.shields.io/github/followers/m-m-legend)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=tokyonight&v=2)
 
 ---
 
