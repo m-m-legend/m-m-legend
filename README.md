@@ -1,57 +1,87 @@
-# 👋 Fala aí! Eu sou o Marcos! 
+# 👋 Olá, eu sou o Marcos 
 
-🎓 Estudante de Ciência da Computação - UERJ  
-🚀 Atualmente focado em Back-end  
-🔧 Entusiasta de Git, GitHub e boas práticas de versionamento  
-
----
-
-## 🧠 Conhecimentos
-
-- 💻 Linguagens: **C**, **Python**, **Java**, **C#**, **JavaScript**
-- 🧩 Interesse especial em **Estruturas de Dados**, **Programação Dinâmica**, **GUIs**, **C** e **POO**
-- 📚 Estudando algoritmos, lógica de programação e SDL
+🎓 Estudante de Ciência da Computação na UERJ  
+💻 Desenvolvedor Back-end em formação  
+🎯 Buscando oportunidade de estágio/júnior em desenvolvimento back-end  
 
 ---
 
-## 📫 Contato
+## 🚀 Sobre mim
 
-✉️ Email: [nintendo_64m@outlook.com](mailto:nintendo_64m@outlook.com)  
-🎮 Curioso e gamer nas horas vagas
+- Focado em **Java, Spring Boot, Python e C**
+- Estudo **arquitetura de software, APIs REST, bancos de dados e boas práticas**
+- Curto resolver problemas com **estruturas de dados e algoritmos**
+- Sempre construindo projetos práticos para consolidar conhecimento
+
+---
+
+## 🧠 Stack Tecnológica
+
+**Back-end:**  
+- Java, Spring Boot, Python  
+- APIs REST, JPA/Hibernate  
+- SQL (PostgreSQL / MySQL)
+
+**Outros:**  
+- Git, GitHub  
+- JavaScript  
+- C/C++ 
+
+---
+
+## 📚 Atualmente estudando
+- Spring Boot avançado
+- Clean Architecture
+- Docker e Deploy
+- Testes unitários (JUnit)
+- Data Driven Game Design (DDGD)
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **[Bellicus](https://github.com/Costruco/Bellicus-GUIs)**  
+> Criação de jogo de tanque low-code em C, com utilização de bibliotecas como SDL2
+
+🔹 **[Algoritmos e Estruturas de Dados](https://github.com/m-m-legend/AED2)**  
+> Implementações em C++ e Python
+
+🔹 **[Sistema de Biblioteca](https://github.com/m-m-legend/biblioteca)**  
+> Criação de um sistema para bibliotecas em Java puro, seguindo o paradigma de POO
+
+🔹 **[Cambiare](https://github.com/m-m-legend/cambiare)**  
+> Criação de interface de conversão de câmbio em tempo real através do consumo de APIs
+
+🔹 **[Analytics YouTube](https://github.com/m-m-legend/Analytics-YouTube)**  
+> Projeto de Big Data que analisa amostras de vídeos do YouTube e gera gráficos com Matplotlib e Streamlit
+
+🔹 **[Castle Invasion](https://github.com/m-m-legend/castle-invasion)**  
+> (Em desenvolvimento) Engine e base lógica escalável para jogos de RPG indie medieval.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=tokyonight&hide_title=false)
+![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=tokyonight)
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## ⚙️ Tecnologias
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-> “Learning and improving day by day.” 🌱
+## 📫 Contato
 
+📧 Email: nintendo_64m@outlook.com  
+💼 **[LinkedIn](https://www.linkedin.com/in/marcos-mendon%C3%A7a-45657b327/)**  
 
+---
 
-<!--
-**m-m-legend/m-m-legend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Always learning and building.” 🌱
