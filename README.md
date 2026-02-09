@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=tokyonight)
 
 ---
 
