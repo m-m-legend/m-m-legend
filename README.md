@@ -43,8 +43,8 @@
 🔹 **[Bellicus](https://github.com/Costruco/Bellicus-GUIs)**  
 > Criação de jogo de tanque low-code em C, com utilização de bibliotecas como SDL2
 
-🔹 **[Algoritmos e Estruturas de Dados](https://github.com/m-m-legend/AED2)**  
-> Implementações em C++ e Python
+🔹 **[Algoritmos e Estruturas de Dados 1](https://github.com/m-m-legend/AED1)** | **[Algoritmos e Estruturas de Dados 2](https://github.com/m-m-legend/AED2)**  
+> Implementações em C++ e Python de algoritmos clássicos
 
 🔹 **[Sistema de Biblioteca](https://github.com/m-m-legend/biblioteca)**  
 > Criação de um sistema para bibliotecas em Java puro, seguindo o paradigma de POO
