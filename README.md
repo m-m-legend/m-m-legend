@@ -1,73 +1,88 @@
-# 👋 Olá, eu sou o Marcos 
+# 👋 Hi, I'm Marcos
 
-🎓 Estudante de Ciência da Computação na UERJ  
-💻 Desenvolvedor Back-end em formação  
-🎯 Buscando oportunidade de estágio/júnior em desenvolvimento back-end  
-
----
-
-## 🚀 Sobre mim
-
-- Focado em **Java, Spring Boot, Python e C**
-- Estudo **arquitetura de software, APIs REST, bancos de dados e boas práticas**
-- Curto resolver problemas com **estruturas de dados e algoritmos**
-- Sempre construindo projetos práticos para consolidar conhecimento
+🎓 Computer Science student at UERJ  
+💻 Back-end Developer in training  
+🎯 Seeking internship/junior opportunities in back-end development  
 
 ---
 
-## 🧠 Stack Tecnológica
+## 🚀 About Me
+
+- Focused on **Java, Spring Boot, Python, and C**
+- Studying **software architecture, REST APIs, databases, and best practices**
+- I enjoy solving problems with **data structures and algorithms**
+- Constantly building practical projects to consolidate knowledge
+
+---
+
+## 🧠 Tech Stack
 
 **Back-end:**  
-- Java, Spring Boot, Python  
-- APIs REST, JPA/Hibernate  
+- Java
+- Spring Boot
+- Python
+- Flask
+- Django
+- REST APIs, JPA/Hibernate  
 - SQL (PostgreSQL / MySQL)
 
-**Outros:**  
+**Front-end:**
+- HTML
+- CSS
+
+**Others:**  
 - Git, GitHub  
 - JavaScript  
-- C/C++ 
+- C/C++
+- Docker
+
 
 ---
 
-## 📚 Atualmente estudando
-- Spring Boot avançado
+## 📚 Currently Studying
+- Advanced Spring Boot
 - Clean Architecture
-- Docker e Deploy
-- Testes unitários (JUnit)
+- Docker and Deployment
+- Unit Testing (JUnit)
 - Data Driven Game Design (DDGD)
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 🔹 **[Bellicus](https://github.com/Costruco/Bellicus-GUIs)**  
-> Criação de jogo de tanque low-code em C, com utilização de bibliotecas como SDL2
+> Low-code tank game development in C, using libraries such as SDL2
 
-🔹 **[Algoritmos e Estruturas de Dados 1](https://github.com/m-m-legend/AED1)** | **[Algoritmos e Estruturas de Dados 2](https://github.com/m-m-legend/AED2)**  
-> Implementações em C++ e Python de algoritmos clássicos
+🔹 **[Algorithms and Data Structures 1](https://github.com/m-m-legend/AED1)** | **[Algorithms and Data Structures 2](https://github.com/m-m-legend/AED2)**  
+> Implementations of classic algorithms in C++ and Python
 
-🔹 **[Sistema de Biblioteca](https://github.com/m-m-legend/biblioteca)**  
-> Criação de um sistema para bibliotecas em Java puro, seguindo o paradigma de POO
+🔹 **[Library System](https://github.com/m-m-legend/biblioteca)**  
+> Development of a library management system in pure Java, following the OOP paradigm
 
-🔹 **[Cambiare](https://github.com/m-m-legend/cambiare)**  
-> Criação de interface de conversão de câmbio em tempo real através do consumo de APIs
+🔹 **[Cambiare Agent](https://github.com/m-m-legend/cambiare)**  
+> Real-time currency conversion interface built through API consumption
 
-🔹 **[Analytics YouTube](https://github.com/m-m-legend/Analytics-YouTube)**  
-> Projeto de Big Data que analisa amostras de vídeos do YouTube e gera gráficos com Matplotlib e Streamlit
+🔹 **[YouTube Analytics](https://github.com/m-m-legend/Analytics-YouTube)**  
+> Big Data project that analyzes YouTube video samples and generates charts using Matplotlib and Streamlit
 
 🔹 **[Castle Invasion](https://github.com/m-m-legend/castle-invasion)**  
-> (Em desenvolvimento) Engine e base lógica escalável para jogos de RPG indie medieval.
+> (In development) Scalable engine and logical foundation for medieval indie RPG games.
 
 ---
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=m-m-legend&theme=dark)
+
+---
+
 
 ## 📈 GitHub Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=m-m-legend)
 ![Followers](https://img.shields.io/github/followers/m-m-legend)
 
-
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Technologies
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -78,7 +93,7 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 📧 Email: nintendo_64m@outlook.com  
 💼 **[LinkedIn](https://www.linkedin.com/in/marcos-mendon%C3%A7a-45657b327/)**  
