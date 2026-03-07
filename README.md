@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcos
 
-🎓 Computer Science student at UERJ  
+🎓 Computer Science undergraduate at UERJ  
 💻 Back-end Developer in training  
 🎯 Seeking internship/junior opportunities in back-end development  
 
@@ -32,7 +32,9 @@
 
 **Others:**  
 - Git, GitHub  
-- JavaScript  
+- JavaScript
+- TypeScript
+- Node.js  
 - C/C++
 - Docker
 
@@ -45,6 +47,7 @@
 - Docker and Deployment
 - Unit Testing (JUnit)
 - Data Driven Game Design (DDGD)
+- Unity Engine
 
 ---
 
@@ -66,7 +69,13 @@
 > Big Data project that analyzes YouTube video samples and generates charts using Matplotlib and Streamlit
 
 🔹 **[Castle Invasion](https://github.com/m-m-legend/castle-invasion)**  
-> (In development) Scalable engine and logical foundation for medieval indie RPG games.
+> (In development) Scalable engine and logical foundation for medieval indie RPG games
+
+🔹 **[E-Commerce]((https://github.com/argosmaia/e-commerce-social))**  
+> (In development) Joint project of an e-commerce made with Spring Boot and clean architecture
+
+🔹 **[Task Manager CLI]((https://github.com/m-m-legend/task-manager-cli))**  
+> A CLI Task Manager built with TypeScript and Node.js
 
 ---
 ## GitHub Streak
@@ -76,9 +85,12 @@
 ---
 
 
-## 📈 GitHub Activity
-![Profile Views](https://komarev.com/ghpvc/?username=m-m-legend)
-![Followers](https://img.shields.io/github/followers/m-m-legend)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-m-legend&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-m-legend&theme=tokyo-night)
+
 
 ---
 
