@@ -87,8 +87,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-m-legend&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-m-legend&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-m-legend&layout=compact&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-m-legend&theme=tokyo-night)
 
 
