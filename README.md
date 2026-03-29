@@ -77,6 +77,9 @@
 🔹 **[Task Manager CLI](https://github.com/m-m-legend/task-manager-cli)**  
 > A CLI Task Manager built with TypeScript and Node.js
 
+🔹 **[Portfolio Optimizer](https://github.com/m-m-legend/analise-carteira)**  
+> Investment Portfolio Optimizer made in Flask with classic conceptual applications of Black-Litterman.
+
 ---
 ## GitHub Streak
 
