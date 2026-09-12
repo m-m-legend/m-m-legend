@@ -90,19 +90,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-m-legend&layout=compact&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=m-m-legend&theme=tokyo-night"
-    width="100%"
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=m-m-legend&layout=compact&theme=tokyonight)
 
 ## ⚙️ Technologies
 
