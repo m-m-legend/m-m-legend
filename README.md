@@ -95,6 +95,13 @@
   <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/m-m-legend/m-m-legend/output/activity-graph.svg"
+    alt="Activity Graph"
+  >
+</p>
+
 ---
 
 ## ⚙️ Technologies
