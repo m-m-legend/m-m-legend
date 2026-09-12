@@ -81,6 +81,7 @@
 > Investment Portfolio Optimizer made in Flask with classic conceptual applications of Black-Litterman.
 
 ---
+
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=m-m-legend&theme=dark)
@@ -90,7 +91,11 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=m-m-legend&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages">
+</p>
+
+---
 
 ## ⚙️ Technologies
 
