@@ -69,7 +69,7 @@
 > Big Data project that analyzes YouTube video samples and generates charts using Matplotlib and Streamlit
 
 🔹 **[Castle Invasion](https://github.com/m-m-legend/castle-invasion)**  
-> (In development) Scalable engine and logical foundation for medieval indie RPG games
+> Scalable engine and logical foundation for medieval indie RPG games
 
 🔹 **[E-Commerce](https://github.com/argosmaia/e-commerce-social)**  
 > (In development) Joint project of an e-commerce made with Spring Boot and clean architecture
@@ -117,7 +117,7 @@
 
 ## 📫 Contact
 
-📧 Email: nintendo_64m@outlook.com  
+📧 **[Email](nintendo_64m@outlook.com)**  
 💼 **[LinkedIn](https://www.linkedin.com/in/marcos-mendon%C3%A7a-45657b327/)**  
 
 ---
