@@ -71,8 +71,8 @@
 🔹 **[Castle Invasion](https://github.com/m-m-legend/castle-invasion)**  
 > Scalable engine and logical foundation for medieval indie RPG games
 
-🔹 **[E-Commerce](https://github.com/argosmaia/e-commerce-social)**  
-> (In development) Joint project of an e-commerce made with Spring Boot and clean architecture
+🔹 **[ReUse Hub](https://github.com/m-m-legend/reuse-hub)**  
+> Independent project of a Hub made for donations between institutions, made with Spring Boot and TypeScript
 
 🔹 **[Task Manager CLI](https://github.com/m-m-legend/task-manager-cli)**  
 > A CLI Task Manager built with TypeScript and Node.js
